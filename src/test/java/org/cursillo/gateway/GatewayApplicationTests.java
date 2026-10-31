@@ -1,10 +1,10 @@
-package org.cursillo.cursilloapigateway;
+package org.cursillo.gateway;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class CursilloApiGatewayApplicationTests {
+class GatewayApplicationTests {
 
 	@Test
 	void contextLoads() {
